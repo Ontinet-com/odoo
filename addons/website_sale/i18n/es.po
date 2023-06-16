@@ -511,7 +511,7 @@ msgstr ""
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.confirmation
 msgid "<strong>Payment Information:</strong>"
-msgstr "<strong>Información del Pago:</strong>"
+msgstr "<strong>Información del pago:</strong>"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.confirmation
@@ -1220,8 +1220,8 @@ msgid ""
 "Changing your name is not allowed once documents have been issued for your "
 "account. Please contact us directly for this operation."
 msgstr ""
-"No está permitido cambiar su nombre una vez que se hayan emitido documentos "
-"para su cuenta. Por favor contáctenos para realizar esta operación."
+"No está permitido cambiar tu nombre una vez que se han emitido facturas vinculadas a "
+"tu cuenta de usuario. Por favor, contáctanos directamente para esta operación."
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.snippet_options
@@ -2023,7 +2023,7 @@ msgstr "Tamaño de archivo excesivo. Optimice o reduzca la imagen."
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.payment_sale_note
 msgid "I agree to the"
-msgstr "Estoy de acuerdo con la"
+msgstr "Estoy de acuerdo con los"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.reduction_code
@@ -3844,7 +3844,7 @@ msgstr "Texto para mostrar en lugar de precio"
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.confirmation
 msgid "Thank you for your order."
-msgstr "Gracias por su pedido."
+msgstr "Gracias por tu pedido."
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.brand_promotion

@@ -25,7 +25,7 @@ function fromField(f, record) {
         const code = document.createElement('input');
         code.setAttribute('name', 'code');
         code.setAttribute('class', 'form-control col-10 col-md-6');
-        code.setAttribute('placeholder', '6-digit code');
+        code.setAttribute('placeholder', 'Código de 6 dígitos');
         code.required = true;
         code.maxLength = 6;
         code.minLength = 6;
