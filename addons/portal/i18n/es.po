@@ -38,7 +38,7 @@ msgstr "%1d días de retraso"
 #. module: portal
 #: model_terms:ir.ui.view,arch_db:portal.portal_my_security
 msgid "1. Enter your password to confirm you own this account"
-msgstr "1. Ingrese su contraseña para confirmar que es dueño de esta cuenta"
+msgstr "1. Ingresa tu contraseña para confirmar que eres el dueño de esta cuenta."
 
 #. module: portal
 #: model_terms:ir.ui.view,arch_db:portal.portal_my_security
@@ -46,8 +46,8 @@ msgid ""
 "2. Confirm you want to delete your account by\n"
 "                                        copying down your login ("
 msgstr ""
-"2. Confirme que quiere borrar su cuenta\n"
-"                                        copiando y pegando su inicio de sesión ("
+"2. Confirma que quieres borrar tu cuenta\n"
+"                                        introduciendo el correo electrónico vinculado a la misma. ("
 
 #. module: portal
 #: model_terms:ir.ui.view,arch_db:portal.portal_back_in_edit_mode
@@ -115,9 +115,9 @@ msgid ""
 " not allowed once document(s) have been issued for your account. <br/>Please"
 " contact us directly for this operation.</small>"
 msgstr ""
-"<small class=\"form-text text-muted\">Cambiar el nombre de la empresa o el "
-"NIF no se permite una vez que se emitieron documento(s) para su cuenta.<br/>"
-" Contáctenos directamente para esta operación.</small>"
+"<small class=\"form-text text-muted\">No se permite cambiar el nombre de la empresa o "
+"NIF una vez que se han emitido documentos vinculados a tu cuenta de usuario.<br/>"
+" Contáctanos directamente a admin@navimask.com para ayudarte a resolverlo.</small>"
 
 #. module: portal
 #: model_terms:ir.ui.view,arch_db:portal.portal_searchbar
@@ -373,7 +373,7 @@ msgstr "Se debe proporcionar un código de acceso para cada archivo adjunto."
 #. module: portal
 #: model_terms:ir.ui.view,arch_db:portal.portal_my_security
 msgid "Are you sure you want to do this?"
-msgstr "¿Esta seguro de que quiere hacer esto?"
+msgstr "¿Estás seguro de que quiere hacer esto?"
 
 #. module: portal
 #. odoo-javascript
@@ -594,7 +594,7 @@ msgid ""
 "                                            This action cannot be undone.\n"
 "                                        </b>"
 msgstr ""
-"Deshabilitar su cuenta, lo que no permitirá que se inicie sesión.<br/>\n"
+"Deshabilitar tu cuenta no te permitirá iniciar sesión.<br/>\n"
 "                                        <b>\n"
 "                                            <i class=\"fa fa-exclamation-triangle text-danger\"/>\n"
 "                                            Esta acción no se puede deshacer.\n"
@@ -668,7 +668,7 @@ msgstr "Ingrese descripción y propósito de la clave."
 #: code:addons/portal/static/src/xml/portal_security.xml:0
 #, python-format
 msgid "Forgot password?"
-msgstr "¿Olvidó su contraseña?"
+msgstr "¿Has olvidado tu contraseña?"
 
 #. module: portal
 #: model_terms:ir.ui.view,arch_db:portal.wizard_view
@@ -955,7 +955,7 @@ msgstr "Teléfono"
 #: code:addons/portal/static/src/xml/portal_security.xml:0
 #, python-format
 msgid "Please enter your password to confirm you own this account"
-msgstr "Ingrese su contraseña para confirmar que esta cuenta le pertenece"
+msgstr "Ingresa tu contraseña para confirmar que esta cuenta te pertenece"
 
 #. module: portal
 #. odoo-python
@@ -1021,8 +1021,8 @@ msgid ""
 "Put my email and phone in a block list to make sure I'm never contacted "
 "again"
 msgstr ""
-"Poner mi correo y teléfono en la lista de bloqueo para que no me vuelvan a "
-"contactar"
+"Añadid mi correo electrónico y teléfono en la lista de bloqueo para que no me vuelvan "
+"a contactar"
 
 #. module: portal
 #: model:ir.model,name:portal.model_ir_qweb
@@ -1349,7 +1349,7 @@ msgstr "Dirección de correo válida"
 #. module: portal
 #: model_terms:ir.ui.view,arch_db:portal.portal_my_security
 msgid "Verify New Password:"
-msgstr "Verifique la nueva contraseña:"
+msgstr "Verifica la nueva contraseña:"
 
 #. module: portal
 #: model:ir.model,name:portal.model_ir_ui_view

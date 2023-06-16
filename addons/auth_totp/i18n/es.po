@@ -81,7 +81,7 @@ msgid ""
 "                                        <span class=\"d-none d-md-block\">Install an authenticator app on your mobile device</span>"
 msgstr ""
 "<span class=\"d-md-none d-block\">O instale una aplicación de autenticación</span>\n"
-"                                        <span class=\"d-none d-md-block\">Instale una aplicación de autenticación en su dispositivo móvil</span>"
+"                                        <span class=\"d-none d-md-block\">Instala una aplicación de autenticación en tu dispositivo móvil</span>"
 
 #. module: auth_totp
 #: model_terms:ir.ui.view,arch_db:auth_totp.view_totp_wizard
@@ -89,7 +89,7 @@ msgid ""
 "<span class=\"d-none d-md-block\">When requested to do so, scan the barcode below</span>\n"
 "                                    <span class=\"d-block d-md-none\">When requested to do so, copy the key below</span>"
 msgstr ""
-"<span class=\"d-none d-md-block\">Cuando se le pida hacerlo, escanée el código de barras de abajo</span>\n"
+"<span class=\"d-none d-md-block\">Cuando se te pida hacerlo, escanea el siguiente código de barras:</span>\n"
 "                                    <span class=\"d-block d-md-none\">Cuando se le pida, copie la clave de abajo</span>"
 
 #. module: auth_totp
@@ -159,7 +159,7 @@ msgstr "Cancelar"
 #. module: auth_totp
 #: model_terms:ir.ui.view,arch_db:auth_totp.view_totp_wizard
 msgid "Cannot scan it?"
-msgstr "¿No lo puede escanear?"
+msgstr "¿No lo puedes escanear?"
 
 #. module: auth_totp
 #: model_terms:ir.ui.view,arch_db:auth_totp.view_totp_wizard
@@ -223,7 +223,7 @@ msgstr "Habilitar la A2P"
 #. module: auth_totp
 #: model_terms:ir.ui.view,arch_db:auth_totp.view_totp_wizard
 msgid "Enter your six-digit code below"
-msgstr "Ingrese su código de 6 dígitos abajo"
+msgstr "Ingresa tu código de 6 dígitos abajo"
 
 #. module: auth_totp
 #: model:ir.model,name:auth_totp.model_ir_http
@@ -273,7 +273,7 @@ msgstr "Iniciar sesión"
 #. module: auth_totp
 #: model_terms:ir.ui.view,arch_db:auth_totp.view_totp_wizard
 msgid "Look for an \"Add an account\" button"
-msgstr "Buscar el botón \"agregar una cuenta\""
+msgstr "Busca el botón \"agregar una cuenta\""
 
 #. module: auth_totp
 #: model_terms:ir.ui.view,arch_db:auth_totp.view_totp_wizard
@@ -324,7 +324,7 @@ msgid ""
 "To login, enter below the six-digit authentication code provided by your Authenticator app.\n"
 "                        <br/>"
 msgstr ""
-"Para iniciar sesión, ingrese el código de autenticación de seis dígitos que le sale en la aplicación de autentificación.\n"
+"Para iniciar sesión, ingresa el código de autenticación de seis dígitos que te aparecen en la aplicación de autenticación.\n"
 "<br/>"
 
 #. module: auth_totp

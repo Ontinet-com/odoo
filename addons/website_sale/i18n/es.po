@@ -1217,8 +1217,8 @@ msgid ""
 "Changing your name is not allowed once invoices have been issued for your "
 "account. Please contact us directly for this operation."
 msgstr ""
-"No está permitido cambiar tu nombre una vez que se hayan emitido facturas "
-"para tu cuenta. Por favor, contáctanos directamente para esta operación."
+"No está permitido cambiar tu nombre una vez que se han emitido facturas vinculadas a "
+"tu cuenta de usuario. Por favor, contáctanos directamente para esta operación."
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.snippet_options

@@ -302,7 +302,7 @@ msgstr "Tienes"
 #. module: website_sale_loyalty
 #: model_terms:ir.ui.view,arch_db:website_sale_loyalty.modify_code_form
 msgid "You have successfully applied the following code:"
-msgstr "Aplicó con éxito el siguiente código:"
+msgstr "Has aplicado con éxito el siguiente código:"
 
 #. module: website_sale_loyalty
 #: model_terms:ir.ui.view,arch_db:website_sale_loyalty.modify_code_form
