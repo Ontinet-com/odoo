@@ -506,7 +506,7 @@ msgstr ""
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.confirmation
 msgid "<strong>Payment Information:</strong>"
-msgstr "<strong>Información del Pago:</strong>"
+msgstr "<strong>Información del pago:</strong>"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.confirmation
@@ -2017,7 +2017,7 @@ msgstr "Tamaño de archivo excesivo. Optimice o reduzca la imagen."
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.payment_sale_note
 msgid "I agree to the"
-msgstr "Estoy de acuerdo con la"
+msgstr "Estoy de acuerdo con los"
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.reduction_code
@@ -3832,7 +3832,7 @@ msgstr "Texto para mostrar en lugar de precio"
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.confirmation
 msgid "Thank you for your order."
-msgstr "Gracias por su pedido."
+msgstr "Gracias por tu pedido."
 
 #. module: website_sale
 #: model_terms:ir.ui.view,arch_db:website_sale.brand_promotion
