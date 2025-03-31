@@ -2094,11 +2094,8 @@ class PaymentPortal(payment_portal.PaymentPortal):
         if not kwargs.get('amount'):
             kwargs['amount'] = order_sudo.amount_total
 
-        compare_amounts = order_sudo.currency_id.compare_amounts
-        if compare_amounts(kwargs['amount'], order_sudo.amount_total):
+        if tools.float_compare(kwargs['amount'], order_sudo.amount_total, precision_rounding=order_sudo.currency_id.rounding):
             raise ValidationError(_("The cart has been updated. Please refresh the page."))
-        if compare_amounts(order_sudo.amount_paid, order_sudo.amount_total) == 0:
-            raise UserError(_("The cart has already been paid. Please refresh the page."))
 
         if delay_payment_request := kwargs.get('flow') == 'token':
             request.update_context(delay_payment_request=True)  # wait until after tx validation
